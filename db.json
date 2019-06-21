@@ -1,0 +1,1092 @@
+{
+    "provinces": {
+        "BC": {
+            "nbrOfStores": 48,
+            "territory": "British Columbia",
+            "stores": {
+                "Vancouver": [
+                    1104
+                ],
+                "Port Coquitlam": [
+                    1112
+                ],
+                "Cranbrook": [
+                    3183
+                ],
+                "Langley": [
+                    3158
+                ],
+                "Coquitlam": [
+                    1208
+                ],
+                "Maple Ridge": [
+                    1206
+                ],
+                "Courtenay": [
+                    3163
+                ],
+                "Burnaby": [
+                    3008,
+                    2101,
+                    1213
+                ],
+                "Mission": [
+                    1119
+                ],
+                "Chilliwack": [
+                    3167
+                ],
+                "Abbotsford": [
+                    1113,
+                    3019
+                ],
+                "Dawson Creek": [
+                    5776
+                ],
+                "Campbell River": [
+                    1077
+                ],
+                "Prince Rupert": [
+                    1143
+                ],
+                "Salmon Arm": [
+                    1100
+                ],
+                "Nelson": [
+                    3060
+                ],
+                "Westbank": [
+                    1093
+                ],
+                "Kamloops": [
+                    3040
+                ],
+                "Nanaimo": [
+                    3059
+                ],
+                "Merritt": [
+                    1036
+                ],
+                "Tsawwassen": [
+                    1181
+                ],
+                "Victoria": [
+                    3109
+                ],
+                "Quesnel": [
+                    3199
+                ],
+                "Squamish": [
+                    1015
+                ],
+                "Vernon": [
+                    3169
+                ],
+                "Langford": [
+                    3188
+                ],
+                "North Vancouver": [
+                    3057
+                ],
+                "Penticton": [
+                    3070
+                ],
+                "Terrace": [
+                    5834
+                ],
+                "Fort St. John": [
+                    3661
+                ],
+                "Trail": [
+                    1011
+                ],
+                "Williams Lake": [
+                    1106
+                ],
+                "Delta": [
+                    1207
+                ],
+                "Powell River": [
+                    3072
+                ],
+                "New Westminster": [
+                    5777,
+                    1192
+                ],
+                "Prince George": [
+                    3651
+                ],
+                "Surrey": [
+                    1205,
+                    3098,
+                    5853,
+                    5838
+                ],
+                "Duncan": [
+                    3025
+                ],
+                "Port Alberni": [
+                    1018
+                ],
+                "Richmond": [
+                    3652
+                ],
+                "Kelowna": [
+                    3042
+                ]
+            }
+        },
+        "AB": {
+            "nbrOfStores": 62,
+            "territory": "Alberta",
+            "stores": {
+                "Grand-prairie": [
+                    3147
+                ],
+                "Airdrie": [
+                    1050
+                ],
+                "Peace River": [
+                    1068
+                ],
+                "Camrose": [
+                    3181
+                ],
+                "Lethbridge": [
+                    1078,
+                    3048
+                ],
+                "Edson": [
+                    1048
+                ],
+                "Strathmore": [
+                    1049
+                ],
+                "Wetaskiwin": [
+                    3112
+                ],
+                "Fort Saskatchewan": [
+                    5753
+                ],
+                "Lloydminster": [
+                    3168
+                ],
+                "Stettler": [
+                    1034
+                ],
+                "Vegreville": [
+                    1071
+                ],
+                "Sherwood Park": [
+                    3154,
+                    1123
+                ],
+                "Whitecourt": [
+                    1009
+                ],
+                "Drumheller": [
+                    1028
+                ],
+                "Slave Lake": [
+                    1030
+                ],
+                "St. Albert": [
+                    3087
+                ],
+                "Fort Mcmurray": [
+                    3157
+                ],
+                "Hinton": [
+                    3038
+                ],
+                "Red Deer": [
+                    3075,
+                    3194
+                ],
+                "Wainwright": [
+                    1062
+                ],
+                "Brooks": [
+                    3658
+                ],
+                "Okotoks": [
+                    5708
+                ],
+                "Drayton Valley": [
+                    1008
+                ],
+                "Calgary": [
+                    1089,
+                    3009,
+                    3650,
+                    3010,
+                    3011,
+                    3012,
+                    3013,
+                    1097,
+                    2093,
+                    3151,
+                    1136,
+                    1144,
+                    5726
+                ],
+                "Pincher Creek": [
+                    1070
+                ],
+                "Leduc": [
+                    3657
+                ],
+                "Olds": [
+                    1084
+                ],
+                "Sylvan Lake": [
+                    1102
+                ],
+                "Taber": [
+                    1046
+                ],
+                "Spruce Grove": [
+                    3637
+                ],
+                "Cold Lake": [
+                    3640
+                ],
+                "Medicine Hat": [
+                    3150
+                ],
+                "Edmonton": [
+                    1122,
+                    1187,
+                    1094,
+                    1138,
+                    3026,
+                    3027,
+                    3028,
+                    3029,
+                    1145,
+                    1146,
+                    1147,
+                    1148,
+                    1149
+                ],
+                "Cochrane": [
+                    1135
+                ]
+            }
+        },
+        "QC": {
+            "nbrOfStores": 72,
+            "territory": "Quebec",
+            "stores": {
+                "Alma": [
+                    5795
+                ],
+                "Lasalle": [
+                    3046
+                ],
+                "Quebec City": [
+                    1201,
+                    3074,
+                    1212,
+                    3646
+                ],
+                "Gatineau": [
+                    3125,
+                    1086
+                ],
+                "Lac-megantic": [
+                    1019
+                ],
+                "Terrebonne": [
+                    1085
+                ],
+                "Candiac": [
+                    1203
+                ],
+                "Vaudreuil-dorion": [
+                    1057
+                ],
+                "Saint-constant": [
+                    3642
+                ],
+                "St-jean-sur-richelieu": [
+                    3090
+                ],
+                "Saint-bruno": [
+                    3140
+                ],
+                "Pincourt": [
+                    1171
+                ],
+                "Repentigny": [
+                    3079
+                ],
+                "Magog": [
+                    1076
+                ],
+                "Saint-hyacinthe": [
+                    3137
+                ],
+                "Chateauguay": [
+                    1132
+                ],
+                "Saint-leonard": [
+                    3094,
+                    1183
+                ],
+                "Kirkland": [
+                    3044
+                ],
+                "Trois-rivieres": [
+                    3108
+                ],
+                "Pointe-claire": [
+                    1202
+                ],
+                "Saint-romuald": [
+                    1045
+                ],
+                "Chicoutimi": [
+                    3017
+                ],
+                "Lachute": [
+                    3132
+                ],
+                "Joliette": [
+                    3039
+                ],
+                "Laval": [
+                    3189,
+                    3047,
+                    1032
+                ],
+                "Saint-jerome": [
+                    3190
+                ],
+                "Rouyn-noranda": [
+                    3136
+                ],
+                "Cowansville": [
+                    5839
+                ],
+                "Levis": [
+                    3148
+                ],
+                "St-laurent": [
+                    1189
+                ],
+                "Dorval": [
+                    1140
+                ],
+                "Sherbrooke": [
+                    1172,
+                    3086
+                ],
+                "Victoriaville": [
+                    3739
+                ],
+                "Blainville": [
+                    1185
+                ],
+                "Drummondville": [
+                    3023
+                ],
+                "Rosemere": [
+                    3080
+                ],
+                "Hull": [
+                    1190,
+                    3143
+                ],
+                "Riviere-du-loup": [
+                    3655
+                ],
+                "Granby": [
+                    3035
+                ],
+                "Sept-iles": [
+                    3085
+                ],
+                "Rimouski": [
+                    3198
+                ],
+                "Cap-de-la-madeleine": [
+                    3014
+                ],
+                "Sainte-foy": [
+                    3146
+                ],
+                "Thetford Mines": [
+                    5832
+                ],
+                "Brossard": [
+                    3007
+                ],
+                "Mascouche": [
+                    3149
+                ],
+                "La Pocatiere": [
+                    1173
+                ],
+                "Saint-georges": [
+                    1040
+                ],
+                "Baie-comeau": [
+                    3002
+                ],
+                "Sainte-agathe-des-monts": [
+                    1020
+                ],
+                "Saint-eustache": [
+                    3089
+                ],
+                "Val-d'or": [
+                    3139
+                ],
+                "Longueuil": [
+                    3052,
+                    1167
+                ],
+                "Salaberry-de-valleyfield": [
+                    3639
+                ],
+                "Matane": [
+                    1025
+                ],
+                "Pointe-aux-trembles": [
+                    1169
+                ],
+                "Sorel-tracy": [
+                    1174
+                ],
+                "Shawinigan": [
+                    3647
+                ],
+                "Montreal-nord": [
+                    3656
+                ],
+                "Montreal": [
+                    1168,
+                    1170,
+                    3165
+                ]
+            }
+        },
+        "NB": {
+            "nbrOfStores": 13,
+            "territory": "New Brunswick",
+            "stores": {
+                "Edmundston": [
+                    1033
+                ],
+                "Atholville": [
+                    3737
+                ],
+                "Miramichi": [
+                    5833
+                ],
+                "Saint John": [
+                    3091,
+                    1175
+                ],
+                "Dieppe": [
+                    3056
+                ],
+                "Fredericton": [
+                    3032,
+                    1067
+                ],
+                "Grand Falls": [
+                    1013
+                ],
+                "Moncton": [
+                    3659
+                ],
+                "Sussex": [
+                    1052
+                ],
+                "Bathurst": [
+                    3003
+                ],
+                "Woodstock": [
+                    1043
+                ]
+            }
+        },
+        "MB": {
+            "nbrOfStores": 16,
+            "territory": "Manitoba",
+            "stores": {
+                "Winkler": [
+                    1022
+                ],
+                "Winnipeg": [
+                    1186,
+                    3107,
+                    1204,
+                    3177,
+                    3116,
+                    3117,
+                    3118,
+                    3119
+                ],
+                "Selkirk": [
+                    1027
+                ],
+                "Dauphin": [
+                    3022
+                ],
+                "Flin Flon": [
+                    3660
+                ],
+                "Brandon": [
+                    3004
+                ],
+                "Portage La Prairie": [
+                    3069
+                ],
+                "Steinbach": [
+                    1141
+                ],
+                "Thompson": [
+                    3102
+                ]
+            }
+        },
+        "NS": {
+            "nbrOfStores": 18,
+            "territory": "Nova Scotia",
+            "stores": {
+                "Truro": [
+                    3184
+                ],
+                "North Sydney": [
+                    1178
+                ],
+                "Dartmouth": [
+                    1176,
+                    3021
+                ],
+                "Greenwood": [
+                    1177
+                ],
+                "Bridgewater": [
+                    1003
+                ],
+                "Antigonish": [
+                    1014
+                ],
+                "Halifax": [
+                    3138,
+                    3636
+                ],
+                "Amherst": [
+                    5789
+                ],
+                "Digby": [
+                    1017
+                ],
+                "Port Hawkesbury": [
+                    3068
+                ],
+                "New Glasgow": [
+                    3061
+                ],
+                "Bedford": [
+                    3081
+                ],
+                "New Minas": [
+                    3738
+                ],
+                "Yarmouth": [
+                    1016
+                ],
+                "Sydney": [
+                    3100,
+                    3101
+                ]
+            }
+        },
+        "PE": {
+            "nbrOfStores": 2,
+            "territory": "Prince Edward Island",
+            "stores": {
+                "Charlottetown": [
+                    3162
+                ],
+                "Summerside": [
+                    3644
+                ]
+            }
+        },
+        "NT": {
+            "nbrOfStores": 1,
+            "territory": "Northwest Territories",
+            "stores": {
+                "Yellowknife": [
+                    3121
+                ]
+            }
+        },
+        "SK": {
+            "nbrOfStores": 14,
+            "territory": "Saskatchewan",
+            "stores": {
+                "North Battleford": [
+                    3058
+                ],
+                "Regina": [
+                    3076,
+                    3077,
+                    3179
+                ],
+                "Kindersley": [
+                    1065
+                ],
+                "Weyburn": [
+                    5790
+                ],
+                "Saskatoon": [
+                    5878,
+                    3083,
+                    3084
+                ],
+                "Swift Current": [
+                    3099
+                ],
+                "Moose Jaw": [
+                    3173
+                ],
+                "Yorkton": [
+                    3176
+                ],
+                "Estevan": [
+                    3030
+                ],
+                "Prince Albert": [
+                    3073
+                ]
+            }
+        },
+        "YT": {
+            "nbrOfStores": 1,
+            "territory": "Yukon",
+            "stores": {
+                "Whitehorse": [
+                    3191
+                ]
+            }
+        },
+        "NL": {
+            "nbrOfStores": 12,
+            "territory": "NewFoundland & Labrador",
+            "stores": {
+                "Mount Pearl": [
+                    3093
+                ],
+                "Corner Brook": [
+                    3185
+                ],
+                "Stephenville": [
+                    3095
+                ],
+                "Carbonear": [
+                    3015
+                ],
+                "Grand Falls-windsor": [
+                    3036
+                ],
+                "Marystown": [
+                    1026
+                ],
+                "Labrador City": [
+                    1035
+                ],
+                "St. John's": [
+                    3092,
+                    1179,
+                    3196
+                ],
+                "Clarenville": [
+                    3018
+                ],
+                "Gander": [
+                    3033
+                ]
+            }
+        },
+        "ON": {
+            "nbrOfStores": 157,
+            "territory": "Ontario",
+            "stores": {
+                "E. London": [
+                    3049
+                ],
+                "Wasaga Beach": [
+                    1087
+                ],
+                "Cornwall": [
+                    3020
+                ],
+                "Scarborough": [
+                    5635,
+                    3635,
+                    3111,
+                    3159,
+                    1080,
+                    3000,
+                    1117
+                ],
+                "Bradford": [
+                    1101
+                ],
+                "Sudbury": [
+                    1105,
+                    3097
+                ],
+                "Rockland": [
+                    1060
+                ],
+                "Fort Erie": [
+                    3649
+                ],
+                "Cambridge": [
+                    3152
+                ],
+                "Napanee": [
+                    1041
+                ],
+                "Pembroke": [
+                    3171
+                ],
+                "Aurora": [
+                    5778
+                ],
+                "Thornhill": [
+                    5831
+                ],
+                "St. Catharines": [
+                    3088,
+                    3172,
+                    1164
+                ],
+                "Barrie": [
+                    3123,
+                    3166
+                ],
+                "Thunder Bay": [
+                    3124,
+                    1165,
+                    1166
+                ],
+                "Ottawa": [
+                    1200,
+                    1110,
+                    1031,
+                    3066,
+                    3131
+                ],
+                "Orleans": [
+                    3065
+                ],
+                "Georgetown": [
+                    3034
+                ],
+                "Sault Ste. Marie": [
+                    3155,
+                    1163
+                ],
+                "Guelph": [
+                    3144,
+                    1199
+                ],
+                "Dryden": [
+                    3024
+                ],
+                "Keswick": [
+                    1012
+                ],
+                "Hawkesbury": [
+                    1159
+                ],
+                "Renfrew": [
+                    3078
+                ],
+                "Ancaster": [
+                    3127
+                ],
+                "Brampton": [
+                    1120,
+                    5666,
+                    1188,
+                    3130,
+                    3135
+                ],
+                "Timmins": [
+                    3104
+                ],
+                "Midland": [
+                    3645
+                ],
+                "London": [
+                    1157,
+                    3050,
+                    3051
+                ],
+                "Oakville": [
+                    3064
+                ],
+                "Toronto": [
+                    3105,
+                    3106,
+                    1139,
+                    3740,
+                    1004,
+                    1150,
+                    1198
+                ],
+                "Hanover": [
+                    3129
+                ],
+                "North York": [
+                    1151
+                ],
+                "Carleton Place": [
+                    1075
+                ],
+                "Brockville": [
+                    3006
+                ],
+                "Whitby": [
+                    3113
+                ],
+                "Kanata": [
+                    3134
+                ],
+                "Goderich": [
+                    3126
+                ],
+                "Burlington": [
+                    3170,
+                    3141
+                ],
+                "Pickering": [
+                    3186
+                ],
+                "Gloucester": [
+                    1158
+                ],
+                "Listowel": [
+                    1160
+                ],
+                "Niagara Falls": [
+                    3160
+                ],
+                "Chatham": [
+                    3016
+                ],
+                "Owen Sound": [
+                    3067
+                ],
+                "Hannon": [
+                    1042
+                ],
+                "Ajax": [
+                    3001
+                ],
+                "Meadowvale": [
+                    3054
+                ],
+                "Leamington": [
+                    3164
+                ],
+                "Bracebridge": [
+                    1054
+                ],
+                "Stratford": [
+                    1125
+                ],
+                "Parry Sound": [
+                    1023
+                ],
+                "Barrhaven": [
+                    3638
+                ],
+                "Uxbridge": [
+                    3653
+                ],
+                "Peterborough": [
+                    1162,
+                    3071
+                ],
+                "Etobicoke": [
+                    3031
+                ],
+                "Woodbridge": [
+                    1081
+                ],
+                "Richmond Hill": [
+                    3195,
+                    1116
+                ],
+                "Milton": [
+                    1000
+                ],
+                "Amherstburg": [
+                    1072
+                ],
+                "Stittsville": [
+                    1118
+                ],
+                "North Bay": [
+                    3063
+                ],
+                "St. Thomas": [
+                    3197
+                ],
+                "Kapuskasing": [
+                    3041
+                ],
+                "Mississauga": [
+                    5634,
+                    5636,
+                    1061,
+                    1126,
+                    3654,
+                    3055
+                ],
+                "Mississauga West": [
+                    1211
+                ],
+                "Waterloo": [
+                    3156,
+                    1156
+                ],
+                "Woodstock": [
+                    3120
+                ],
+                "Collingwood": [
+                    1039
+                ],
+                "Kenora": [
+                    5854
+                ],
+                "Welland": [
+                    3110
+                ],
+                "Alliston": [
+                    1083
+                ],
+                "Strathroy": [
+                    1038
+                ],
+                "Kitchener": [
+                    1155,
+                    3045,
+                    1111,
+                    1007
+                ],
+                "Vaughan": [
+                    1095,
+                    3145,
+                    1115
+                ],
+                "Waterdown": [
+                    1107
+                ],
+                "Smiths Falls": [
+                    5811
+                ],
+                "Port Perry": [
+                    1069
+                ],
+                "Port Elgin": [
+                    1059
+                ],
+                "Cobourg": [
+                    3133
+                ],
+                "Markham": [
+                    1109,
+                    3053
+                ],
+                "Bolton": [
+                    5742
+                ],
+                "Huntsville": [
+                    5743
+                ],
+                "Fort Frances": [
+                    5806
+                ],
+                "Fergus": [
+                    1130
+                ],
+                "Windsor": [
+                    3114,
+                    3115
+                ],
+                "Kingston": [
+                    3043
+                ],
+                "Orillia": [
+                    3153
+                ],
+                "Oshawa": [
+                    1056,
+                    1153,
+                    3161
+                ],
+                "Hamilton": [
+                    1121,
+                    1154,
+                    3096,
+                    3037
+                ],
+                "Brantford": [
+                    3005
+                ],
+                "Belleville": [
+                    3122
+                ],
+                "Sarnia": [
+                    3082
+                ],
+                "Brampton West": [
+                    1079
+                ],
+                "Wallaceburg": [
+                    1064
+                ],
+                "Malton": [
+                    1137
+                ],
+                "Stouffville": [
+                    1029
+                ],
+                "Trenton": [
+                    3178
+                ],
+                "Kemptville": [
+                    1047
+                ],
+                "Temiskaming Shores": [
+                    3128
+                ],
+                "Bowmanville": [
+                    1001
+                ],
+                "Newmarket": [
+                    3062,
+                    1161
+                ],
+                "Simcoe": [
+                    5752
+                ],
+                "Tillsonburg": [
+                    3103
+                ]
+            }
+        }
+    }
+}
